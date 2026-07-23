@@ -15,17 +15,20 @@ getting the data (APIs, scraping, databases), cleaning it honestly, and letting
 the model — and the visualization — tell the story.
 
 ### 🔧 Tools
-`Python` · `pandas` · `NumPy` · `scikit-learn` · `statsmodels` · `SQL / SQLite`
-· `matplotlib` · `seaborn` · `Plotly / Dash` · `Folium` · `BeautifulSoup` ·
-`Jupyter` · `HTML / CSS`
+`Python` · `pandas` · `NumPy` · `scikit-learn` · `statsmodels` · `lifelines` ·
+`R` · `SAS` · `GraphPad Prism` · `SQL / SQLite` · `matplotlib` · `seaborn` ·
+`Plotly / Dash` · `Folium` · `BeautifulSoup` · `Jupyter`
 
-### 📊 Featured projects
+### 📊 Featured projects — healthcare, pharma & commercial data science
+- **[Hospital Readmission Prediction](https://github.com/cperrone96/hospital-readmission-prediction)** — predicting 30-day readmission for diabetic patients (UCI 130-hospitals, 100k+ encounters); `scikit-learn` pipelines, imbalanced-class evaluation, and threshold tuning for a realistic operating point.
+- **[Clinical-Trial Survival Analysis](https://github.com/cperrone96/clinical-trial-survival-analysis)** — time-to-event read-out of the GBSG2 breast-cancer trial (Kaplan-Meier, log-rank, Cox PH), implemented in **Python, R, and SAS** to mirror publication and clinical-reporting workflows.
+- **[Medical-Sales Churn & Revenue Forecasting](https://github.com/cperrone96/medical-sales-churn-forecasting)** — B2B account churn prediction plus Holt-Winters revenue forecasting on reproducible synthetic data, turned into a top-decile retention play.
+
+### 🛠️ More projects
 - **[Predicting SpaceX Falcon 9 Landings](https://github.com/cperrone96/Space-Race-Project)** — full pipeline: API + web scraping → SQL EDA → Folium maps → Plotly Dash → classification models with `GridSearchCV`.
 - **[Stock Market Data Analysis](https://github.com/cperrone96/stock-market-data-analysis)** — financial data via the `yfinance` API and web scraping (`BeautifulSoup`), cleaned and visualized.
 - **[Weather Time-Series Forecasting](https://github.com/cperrone96/weather-time-series-forecasting)** — SARIMAX forecasting of hourly temperature with leakage-safe train/val/test splitting.
 - **[Geospatial Crime Mapping](https://github.com/cperrone96/geospatial-crime-mapping)** — interactive Folium maps: markers, clustering, and choropleth.
-- **[Laptop Pricing Analysis](https://github.com/cperrone96/Laptop-Pricing-Analysis)** — regression modeling of price from hardware specs.
-- **[Web Design Demos](https://github.com/cperrone96/web-design-demos)** — responsive multi-page marketing sites hand-built in HTML/CSS.
 
 ### 🧬 Background
 BS in Neurobiology (Cum Laude, UC Irvine) · 4 peer-reviewed publications ·
