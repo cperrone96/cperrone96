@@ -20,7 +20,7 @@ the model — and the visualization — tell the story.
 `Plotly / Dash` · `Folium` · `BeautifulSoup` · `Jupyter`
 
 ### 🧫 Featured projects — scientific & biostatistics (bench science in code)
-- **[Dose-Response IC50 Analysis](https://github.com/cperrone96/dose-response-ic50-analysis)** — 4-parameter-logistic (4PL) curve fitting to recover IC50 potencies across five compounds spanning four orders of magnitude, with **Z'-factor assay QC** and asymmetric 95% CIs; the Prism/`drc` workflow from my Pfizer assay-development work, written in Python + R.
+- **[Dose-Response IC50 Analysis](https://github.com/cperrone96/dose-response-ic50-analysis)** — 4-parameter-logistic (4PL) curve fitting to recover IC50 potencies across five compounds, with a concentration series spanning four orders of magnitude, **Z'-factor assay QC**, and asymmetric 95% CIs; the Prism/`drc` workflow from my Pfizer assay-development work, written in Python + R.
 - **[Differential Gene-Expression (RNA-seq)](https://github.com/cperrone96/differential-gene-expression)** — case-vs-control transcriptomics pipeline: CPM normalization → PCA/QC → per-gene testing with **Benjamini-Hochberg FDR** across ~2,000 genes → volcano/heatmap → ground-truth validation (empirical FDR 2.7%, log2FC recovery *r* ≈ 0.97).
 - **[Experimental Design & Statistical Inference](https://github.com/cperrone96/experimental-design-inference)** — the biostat workflow behind a controlled study: **a-priori power/sample-size** analysis, assumption checks, one-way **ANOVA** with η², **Tukey HSD** post-hoc, and Cohen's *d* with CIs — including a deliberately underpowered arm reported as *absence of evidence*, not evidence of absence.
 
