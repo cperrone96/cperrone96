@@ -2,7 +2,7 @@
 
 **Molecular biologist & published researcher → data scientist → business analytics.**
 
-I spent ~6 years at the bench — clinical/diagnostic assay development (Pfizer), molecular diagnostics clinical testing (BioReference), and molecular neuroscience research (UC Irvine) — where I lived in data:
+I spent ~6 years at the bench — clinical diagnostic assay development (Pfizer), molecular diagnostics testing (BioReference), and molecular neuroscience research (UC Irvine) — where I lived in data:
 designing experiments, quantifying results, and publishing findings in
 **four peer-reviewed Nature-family journals**. I earned the **IBM Data Science
 Professional Certificate** to formalize the programming and modeling side of
