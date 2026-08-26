@@ -1,9 +1,8 @@
 # Hi, I'm Christina 👋
 
-**Molecular biologist & published researcher → data scientist.**
+**Molecular biologist & published researcher → data scientist → business analytics.**
 
-I spent ~6 years at the bench — Pfizer (clinical assay development), molecular
-diagnostics, and neuroscience research (UC Irvine) — where I lived in data:
+I spent ~6 years at the bench — clinical/diagnostic assay development (Pfizer), molecular diagnostics clinical testing (BioReference), and molecular neuroscience research (UC Irvine) — where I lived in data:
 designing experiments, quantifying results, and publishing findings in
 **four peer-reviewed Nature-family journals**. I earned the **IBM Data Science
 Professional Certificate** to formalize the programming and modeling side of
@@ -17,7 +16,7 @@ the model — and the visualization — tell the story.
 ### 🔧 Tools
 `Python` · `pandas` · `NumPy` · `scikit-learn` · `statsmodels` · `lifelines` ·
 `R` · `SAS` · `GraphPad Prism` · `SQL / SQLite` · `matplotlib` · `seaborn` ·
-`Plotly / Dash` · `Folium` · `BeautifulSoup` · `Jupyter`
+`Plotly / Dash` · `Folium` · `BeautifulSoup` · `Jupyter` · `BigQuery`
 
 ### 🧫 Featured projects — scientific & biostatistics (bench science in code)
 - **[Dose-Response IC50 Analysis](https://github.com/cperrone96/dose-response-ic50-analysis)** — 4-parameter-logistic (4PL) curve fitting to recover IC50 potencies across five compounds, with a concentration series spanning four orders of magnitude, **Z'-factor assay QC**, and asymmetric 95% CIs; the Prism/`drc` workflow from my Pfizer assay-development work, written in Python + R.
