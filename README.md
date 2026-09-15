@@ -1,6 +1,6 @@
 # Hi, I'm Christina 👋
 
-**Molecular biologist & published researcher → data scientist → business
+**Molecular biologist and life-sciences researcher → data scientist → business
 analytics.**
 
 My background combines clinical and molecular diagnostics, research, and
@@ -21,6 +21,11 @@ campaign are in progress; no campaign performance results are claimed here.
 `Python` · `pandas` · `NumPy` · `scikit-learn` · `statsmodels` · `lifelines` ·
 `R` · `SAS` · `SQL / SQLite` · `matplotlib` · `seaborn` · `Plotly / Dash` ·
 `Folium` · `BeautifulSoup` · `Jupyter` · `BigQuery`
+
+### ⭐ Flagship decision products
+
+- **[Marketing Measurement Decision Studio](https://github.com/cperrone96/marketing-measurement)** — governed GA4 funnel, cohort, attribution, and conversion-ranking analysis with typed API contracts, a responsive evidence dashboard, and explicit privacy and metric boundaries. Uses public-obfuscated and synthetic data rather than client data.
+- **[CKD Launch Intelligence](https://github.com/cperrone96/ckd-launch-intelligence)** — public-data healthcare analysis with survey-weighted indicators, leakage-controlled model comparison, source-specific landscapes, typed API contracts, and a responsive evidence dashboard. Synthetic journey methods are clearly separated from public evidence.
 
 ### 🧫 Featured projects — life-sciences statistics
 
@@ -43,8 +48,8 @@ campaign are in progress; no campaign performance results are claimed here.
 
 ### 🧬 Background
 
-BS in Neurobiology (Cum Laude), UC Irvine · four peer-reviewed publications ·
-IBM Data Science Professional Certificate (completed February 27, 2025) ·
+BS in Neurobiology, UC Irvine · IBM Data Science Professional Certificate
+(completed February 27, 2025) ·
 Google Developer Program member · AI Leadership skill badge in progress
 
 📫 Reach me: **admin@datadesigndynamics.org**
