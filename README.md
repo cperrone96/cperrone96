@@ -48,8 +48,12 @@ campaign are in progress; no campaign performance results are claimed here.
 
 ### 🧬 Background
 
-BS in Neurobiology, UC Irvine · IBM Data Science Professional Certificate
-(completed February 27, 2025) ·
+BS in Neurobiology, UC Irvine ·
+[Google Analytics Certification](https://www.credential.net/aca85107-be71-45f2-b952-16666f420b9c)
+(2026) · IBM Data Science Professional Certificate (completed February 27, 2025) ·
+[Google Cloud skill badges](https://www.credly.com/users/christina-perrone.776ce583):
+Implement Cloud Security Fundamentals on Google Cloud, Secure Software Delivery,
+Develop Serverless Applications on Cloud Run ·
 Google Developer Program member · AI Leadership skill badge in progress
 
 📫 Reach me: **admin@datadesigndynamics.org**
