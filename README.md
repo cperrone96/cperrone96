@@ -6,21 +6,21 @@ I run [Data Design Dynamics](https://datadesigndynamics.org), a data, analytics 
 
 ### ⭐ Flagship projects
 
-- **[CKD Launch Intelligence](https://github.com/cperrone96/ckd-launch-intelligence)**: chronic kidney disease analysis on public NHANES, MEPS and ClinicalTrials.gov data. Survey-weighted prevalence (13.9% of US adults show the CKD lab marker), a risk model validated with grouped cross-validation (ROC-AUC 0.772; screening the top 10% finds cases at 3× the base rate) and a spending analysis, served through typed APIs and a dashboard.
-- **[Marketing Measurement Decision Studio](https://github.com/cperrone96/marketing-measurement)**: GA4 funnel, cohort and multi-touch attribution analysis on Google's public ecommerce sample, with self-referral correction, a conversion model benchmarked against a rule-based baseline with bootstrap intervals, and an evidence dashboard.
+- **[CKD Launch Intelligence](https://github.com/cperrone96/ckd-launch-intelligence)**: chronic kidney disease analysis on public NHANES, MEPS and ClinicalTrials.gov data. Survey-weighted prevalence (13.9% of US adults show the CKD lab marker), a risk model selected by a declared rule inside nested cross-validation (ROC-AUC 0.779; screening the top 10% finds cases at 3.1× the base rate) and a spending analysis, served through typed APIs and a dashboard.
+- **[Marketing Measurement Decision Studio](https://github.com/cperrone96/marketing-measurement)**: GA4 funnel, cohort and multi-touch attribution analysis on Google's public ecommerce sample, with self-referral correction and a buyer-propensity model validated forward in time (ROC-AUC 0.811 vs 0.720 for a returning-visitor rule), served through an evidence dashboard.
 
 ### 📈 Machine learning and forecasting
 
-- **[Hospital Readmission Prediction](https://github.com/cperrone96/hospital-readmission-prediction)**: 30-day readmission risk on 99,343 encounters from 130 US hospitals with a patient-disjoint split. Gradient boosting (ROC-AUC 0.675) beats logistic regression (0.664), with near-ideal calibration.
-- **[Medical-Sales Churn & Revenue Forecasting](https://github.com/cperrone96/medical-sales-churn-forecasting)**: account churn model (ROC-AUC 0.79; top decile at 2.9× the base churn rate) and a revenue forecast chosen by rolling-origin backtest (6.2% holdout MAPE), on synthetic B2B medical-device data.
+- **[Hospital Readmission Prediction](https://github.com/cperrone96/hospital-readmission-prediction)**: 30-day readmission risk on 99,343 encounters from 130 US hospitals with a patient-disjoint split. Gradient boosting (ROC-AUC 0.675) beats logistic regression (0.664), is well calibrated and drives a decision-curve-based triage rule for care-management calls.
+- **[Medical-Sales Churn & Revenue Forecasting](https://github.com/cperrone96/medical-sales-churn-forecasting)**: account churn model (ROC-AUC 0.79; top decile at 2.9× the base churn rate) with a retention-value analysis, and a revenue forecast chosen by rolling-origin backtest (6.2% holdout MAPE), on synthetic B2B medical-device data.
 - **[Weather Time-Series Forecasting](https://github.com/cperrone96/weather-time-series-forecasting)**: SARIMAX on seven years of NOAA data, tested on 359 forecast origins. It cuts one-day-ahead error 17% against climatology and beats persistence at every horizon.
 - **[SpaceX Falcon 9 Landing Prediction](https://github.com/cperrone96/Space-Race-Project)**: IBM capstone rebuilt with leaky features removed, nested cross-validation and a next-flight test.
 - **[Laptop Pricing Analysis](https://github.com/cperrone96/Laptop-Pricing-Analysis)**: price model with grouped nested cross-validation (random forest RMSE $348 vs a $576 baseline) and conformal prediction intervals.
 
 ### 🧫 Biostatistics and life sciences
 
-- **[Clinical-Trial Survival Analysis](https://github.com/cperrone96/clinical-trial-survival-analysis)**: Kaplan-Meier, log-rank and Cox models on the GBSG2 breast-cancer trial (686 patients) in Python, R and SAS. Hormone therapy HR 0.70 (95% CI 0.54–0.90), with Python and R agreeing to six significant digits.
-- **[Differential Gene Expression](https://github.com/cperrone96/differential-gene-expression)**: PyDESeq2 benchmarked against Welch testing across 50 simulated RNA-seq experiments, measuring power and false discovery rate against known truth.
+- **[Clinical-Trial Survival Analysis](https://github.com/cperrone96/clinical-trial-survival-analysis)**: Kaplan-Meier, log-rank and Cox models with time-varying effects on the GBSG2 breast-cancer trial (686 patients), plus external validation of a model built on 1,546 Rotterdam patients (Uno's C 0.680, observed/expected risk 1.03). Hormone therapy HR 0.71 (95% CI 0.55–0.92); Python and R agree to six significant digits.
+- **[Differential Gene Expression](https://github.com/cperrone96/differential-gene-expression)**: PyDESeq2 and Welch testing benchmarked on simulated RNA-seq experiments with known truth at 3, 6 and 12 replicates per group, with a recommended configuration at each sample size that keeps false discoveries under 5%.
 - **[Dose-Response IC50 Analysis](https://github.com/cperrone96/dose-response-ic50-analysis)**: four-parameter logistic fits whose 95% intervals cover the true IC50 95.0% of the time across 100 simulated plates, with matching Python and R implementations.
 - **[Experimental Design & Inference](https://github.com/cperrone96/experimental-design-inference)**: power analysis, ANOVA and Holm, Dunnett and Tukey comparisons, with error rates checked across 10,000 simulated studies.
 
