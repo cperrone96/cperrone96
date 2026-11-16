@@ -1,6 +1,6 @@
 # Hi, I'm Christina 👋
 
-**Data scientist with a lab-science background.** I build machine learning models, statistical analyses and marketing measurement systems in Python, R and SQL. Before data science I spent six years in clinical and research labs, including Phase I–III assay development at Pfizer, and contributed to four peer-reviewed neuroscience papers.
+**Data scientist with a lab-science background.** I build machine learning models, statistical analyses and marketing measurement systems in Python, R and SQL. Before data science I spent six years in clinical and research labs, including Phase I–III assay development at Pfizer, and contributed to five peer-reviewed neuroscience papers.
 
 I run [Data Design Dynamics](https://datadesigndynamics.org), a data, analytics and AI studio, where I build GA4 and BigQuery reporting, Google Ads measurement and AI agent workflows with human-in-the-loop review. Before that I led operations and analytics for a medical device distributor, helping grow gross sales from $2M to $8M.
 
